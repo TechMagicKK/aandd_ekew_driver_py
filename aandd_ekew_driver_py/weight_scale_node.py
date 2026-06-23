@@ -1,6 +1,4 @@
 import time
-import sys
-import re
 import threading
 import random
 import asyncio
